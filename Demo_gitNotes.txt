@@ -1,0 +1,4 @@
+git add .
+git status
+git cmoonit -m "first commit"
+git push -u origin master
