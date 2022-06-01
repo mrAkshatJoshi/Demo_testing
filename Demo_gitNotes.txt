@@ -1,4 +1,14 @@
-git add .
-git status
-git cmoonit -m "first commit"
-git push -u origin master
+Pushing files for first time
+git init//insitialize the staging area
+git add .//all files or git add file.name fo adding files or file to the staging area
+git status//files ready in staging area
+git commit -m "first commit"//commiting from local
+git remote add origin link_of_repository_in_search_bar//to which repository link gituhub
+git push -u origin master//pushing from local to github main repository
+click on sigin with your browser in the popup window and referesh github page
+
+General pushin of files
+git add .//all files or git add file.name fo adding files or file to the staging area
+git status//files ready in staging area
+git commit -m "first commit"//commiting from local
+git push -u origin master//pushing from local to github main repository
