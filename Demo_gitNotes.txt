@@ -12,3 +12,5 @@ git add .//all files or git add file.name fo adding files or file to the staging
 git status//files ready in staging area
 git commit -m "first commit"//commiting from local
 git push -u origin master//pushing from local to github main repository
+
+#NOTE:if we want to skip some file an not to  push to github then make a .gitingnore file and add in that file name
